@@ -175,8 +175,6 @@ These tools are widely used in SOC environments and are commonly included in han
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-Replace or remove badges so they only show certifications you actually hold, aligning with best practice for honest portfolio representation. [web:21][web:24]
-
 ---
 
 ## Projects – Detection Lab & SOC/GRC Portfolio
