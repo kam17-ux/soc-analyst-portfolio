@@ -6,7 +6,7 @@ soc-analyst-portfolio
 
 # Hello, I'm  Kamsiyochukwu (Kamsi) Onu
 <a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+https://www.linkedin.com/in/kamsiyochukwu-onu-03b7a72b9/
 I am a cybersecurity professional specialising in Security Operations (SOC) and Governance, Risk & Compliance (GRC), focused on detecting and responding to threats. I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 ---
 
